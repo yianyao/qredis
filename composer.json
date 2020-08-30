@@ -1,0 +1,19 @@
+{
+    "name": "yianyao/qredis",
+    "description": "queue base on redis",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yianyao",
+            "email": "yianyao@live.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload" : {
+		"psr4-" : {
+			"qredis\\" : "src"
+		}
+	}
+}
