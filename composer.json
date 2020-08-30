@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr4": {
+        "psr-4": {
             "qredis\\": "src"
         }
     }
